@@ -1,4 +1,4 @@
-package interview.preparation.kit.arrays;
+package hackerhank.interview.preparation.kit.arrays;
 
 import java.io.*;
 import java.util.ArrayList;

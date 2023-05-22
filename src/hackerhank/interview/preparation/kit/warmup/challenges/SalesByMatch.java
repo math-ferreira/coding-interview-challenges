@@ -1,4 +1,4 @@
-package interview.preparation.kit.warmup.challenges;
+package hackerhank.interview.preparation.kit.warmup.challenges;
 
 import java.io.*;
 import java.util.List;
